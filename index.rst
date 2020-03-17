@@ -83,3 +83,4 @@ __ https://developer.thunderbird.net/
 __ https://thunderbird.topicbox.com/groups/addons
 __ https://bugzilla.mozilla.org/enter_bug.cgi?product=Thunderbird&component=Add-Ons%3A+Extensions+API
 __ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
+
